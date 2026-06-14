@@ -1,6 +1,6 @@
-# Why B2B SaaS Should Be Optimising for Claude First
+# How Claude searches in 2026 (and how to rank in it)
 
-At Profound's Zero Click event in NYC this week, one finding stood out for anyone working in answer engine optimisation: Claude is the most optimisable LLM on the market right now. Not because it is bigger or smarter, but because its search behaviour is unusually predictable. For a B2B SaaS team trying to earn citations, predictability is the whole game.
+At Profound's Zero Click event in NYC this week, one finding stood out for anyone working in answer engine optimisation (AEO): Claude is the most optimisable LLM on the market right now. Not because it is bigger or smarter, but because its search behaviour is unusually predictable. For a B2B SaaS team trying to earn citations, predictability is the whole game.
 
 Here is the core mechanic. Claude does not re-rank what it retrieves. It pulls directly from Brave's search index and preserves the order. The data shared at the event showed that 79.2% of all Claude citations come from Brave ranks 1–10. Rank in Brave's top ten, and you are in the running to be cited in Claude. There is no opaque re-ranking layer scrambling the results between retrieval and answer. That alone makes Claude easier to reason about than most competitors.
 
@@ -24,8 +24,7 @@ Two further details make Claude genuinely testable. First, its query fan-outs ar
 
 Second, Claude's fan-outs are currently fixated on years. Claude stamps "2026/2025" onto 94% of its fan-outs, compared with 17% for ChatGPT. The implication is direct: put the year in your page titles. It is a small change that aligns your content with how Claude is actually querying right now.
 
-## What to do on Monday
-
+## What to do
 The findings translate into a short, concrete checklist:
 
 1. Audit your Brave and Google rankings for your target "best", "top", "near me", and comparison terms. These are the queries that trigger a Claude search in the first place.
@@ -34,9 +33,6 @@ The findings translate into a short, concrete checklist:
 4. Set up a fan-out test on one query cluster, change a single variable, and measure the citation shift. Claude's determinism is what makes this readable.
 
 ## One honest caveat
-
 These are current behaviours, not permanent laws. Search-trigger rates, the Brave dependency, and the year-stamping habit are all products of how Claude works today, and any of them could shift with a model update. That is true of every LLM feature, and it is the reason ongoing measurement matters more than a one-off optimisation pass.
-
-## The bottom line
-
+The bottom line
 Claude rewards teams who treat it as a system to be understood rather than a black box. Strong Brave and Google rankings, the right query phrasing, year-stamped titles, and a willingness to test against its deterministic fan-outs add up to a real, repeatable visibility advantage. For B2B SaaS, that makes Claude the place to start.
